@@ -1,0 +1,22 @@
+파일->환경설정-> 추가적인 보드 URL-> http://arduino.esp8266.com/stable/package_esp8266com_index.json
+툴->보드->보드매니저->contributed선택->esp8266설치
+툴->보드->ESP->NodeMCU 1.0 선택
+
+
+
+
+https://smartstore.naver.com/makerspace/products/3537330885 4EA
+
+
+https://smartstore.naver.com/makerspace/products/5816536750 모터드라이버 (2EA)
+https://smartstore.naver.com/makerspace/products/2423257594 드론용 모터? (2EA)
+혹은
+https://smartstore.naver.com/makerspace/products/2184079215 팬 모듈 (2EA)
+
+
+https://smartstore.naver.com/makerspace/products/4384007239 충전회로(요구사항에는 없었음), (2EA) + https://smartstore.naver.com/makerspace/products/5335927946 리튬이온(EA)
+https://smartstore.naver.com/makerspace/products/4709117347 C Type 케이블(2EA)
+
+https://smartstore.naver.com/makerspace/products/6183873252 소형 온도센서(2EA)
+혹은
+https://smartstore.naver.com/makerspace/products/2288325075 (2EA)
